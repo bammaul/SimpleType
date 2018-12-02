@@ -37,7 +37,7 @@ function addWords()
 
 // Word Colors
 let colorCurrentWord =" #dddddd";
-let colorCorrectWord = "#93C572";
+let colorCorrectWord = "#35a2af";
 let colorIncorrectWord = "#e50000";
 
 // Word Count and other data.
